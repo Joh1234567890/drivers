@@ -14,7 +14,7 @@ MAPPING_XLSX_PATH = "driver_name_matches.xlsx"
 MISSING_DRIVERS_TXT = "missing_drivers.txt"
 CREATED_BY = "System"
 CREATED_BY_ID = "111111111111111111111111"
-CATEGORY = "driver-loan"
+CATEGORY = "loan"
 KIND = "drivers"
 TYPE_INCOME = "income"
 TYPE_EXPENSE = "expense"
@@ -108,7 +108,6 @@ def extract_date_from_description(description):
 
 def record_transaction(driver_name, driver_id, date_iso, description, amount, tx_type):
     obj = {
-        "driver": driver_name,
         "itemID": driver_id,
         "date": date_iso,
         "description": description,
