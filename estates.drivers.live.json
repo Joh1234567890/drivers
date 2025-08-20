@@ -1,0 +1,866 @@
+[{
+  "_id": {
+    "$oid": "6814904534e7d29a4dac37fd"
+  },
+  "name": "ALEXANDER PETER STIMA",
+  "license": "4006438476",
+  "phoneNumber": "+255688173863",
+  "lowerCaseName": "alexanderpeterstima",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:28:37.848Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "681490b434e7d29a4dac3801"
+  },
+  "name": "MOHAMMED MDUBA",
+  "license": "4000274095",
+  "phoneNumber": "+255715466604",
+  "lowerCaseName": "mohammedmduba",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:30:28.294Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814911734e7d29a4dac3804"
+  },
+  "name": "FURAHA TOMU MPETE",
+  "license": "4002882315",
+  "phoneNumber": "+255673020419",
+  "lowerCaseName": "furahatomumpete",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:32:07.216Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814921534e7d29a4dac3809"
+  },
+  "name": "ABDALAH SAIDI",
+  "license": "4006009296",
+  "phoneNumber": "+255695223119",
+  "lowerCaseName": "abdalahsaidi",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:36:21.564Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814924334e7d29a4dac380b"
+  },
+  "name": "INNOCENT ELIAS",
+  "license": "4000936379",
+  "phoneNumber": "+255742914109",
+  "lowerCaseName": "innocentelias",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:37:07.834Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814928334e7d29a4dac380d"
+  },
+  "name": "BARAKA MACHA",
+  "license": "4005580870",
+  "phoneNumber": "+255756577704",
+  "lowerCaseName": "barakamacha",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:38:11.610Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "681492b434e7d29a4dac380f"
+  },
+  "name": "FRAIZER ATHANA NGOMANGO",
+  "license": "4000352562",
+  "phoneNumber": "+255768544136",
+  "lowerCaseName": "fraizerathanangomango",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:39:00.954Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "681492f034e7d29a4dac3811"
+  },
+  "name": "STIMA PASCHOL NGAZAGU",
+  "license": "4001068686",
+  "phoneNumber": "+255756650633",
+  "lowerCaseName": "stimapascholngazagu",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:40:00.284Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814932734e7d29a4dac3813"
+  },
+  "name": "SETH ALLY NGAO",
+  "license": "4000135131",
+  "phoneNumber": "+255766482824",
+  "lowerCaseName": "sethallyngao",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:40:55.589Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814935834e7d29a4dac3815"
+  },
+  "name": "RAJABU WAZIRI DAUDI",
+  "license": "4000161500",
+  "phoneNumber": "+255786461271",
+  "lowerCaseName": "rajabuwaziridaudi",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:41:44.212Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814938f34e7d29a4dac3817"
+  },
+  "name": "SHABANI MOHAMED GURUMO",
+  "license": "4004596100",
+  "phoneNumber": "+255713105751",
+  "lowerCaseName": "shabanimohamedgurumo",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:42:39.946Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "681493e534e7d29a4dac3819"
+  },
+  "name": "SHABANI ADAM KAPUNGU",
+  "license": "4001038181",
+  "phoneNumber": "+255768422711",
+  "lowerCaseName": "shabaniadamkapungu",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:44:05.971Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "681495b134e7d29a4dac381d"
+  },
+  "name": "SUDI KALINGA",
+  "license": "4000744591",
+  "phoneNumber": "+255652105192",
+  "lowerCaseName": "sudikalinga",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T09:51:45.775Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68149e3234e7d29a4dac3829"
+  },
+  "name": "IBRAHIM ISMAIL MAHANDA",
+  "license": "4002121215",
+  "phoneNumber": "+255697230018",
+  "lowerCaseName": "ibrahimismailmahanda",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:28:02.118Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68149e6f34e7d29a4dac382b"
+  },
+  "name": "FRED SAIMON MBILINYI",
+  "license": "4000897951",
+  "phoneNumber": "+255628456509",
+  "lowerCaseName": "fredsaimonmbilinyi",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:29:03.647Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68149e9f34e7d29a4dac382d"
+  },
+  "name": "FRANCO DANIEL",
+  "license": "4004702198",
+  "phoneNumber": "+255747200525",
+  "lowerCaseName": "francodaniel",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:29:51.015Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68149f3034e7d29a4dac382f"
+  },
+  "name": "RAMADHANI FRANCIS",
+  "license": "4006287231",
+  "phoneNumber": "+255782888237",
+  "lowerCaseName": "ramadhanifrancis",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:32:16.315Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68149f5d34e7d29a4dac3831"
+  },
+  "name": "MUSTAPHA ATHUMANI SINGANO",
+  "license": "4006009306",
+  "phoneNumber": "+255678886098",
+  "lowerCaseName": "mustaphaathumanisingano",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:33:01.089Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68149fb334e7d29a4dac3833"
+  },
+  "name": "JUMA K. MASOUD",
+  "license": "4000160656",
+  "phoneNumber": "+255762533733",
+  "lowerCaseName": "jumakmasoud",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:34:27.293Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a04934e7d29a4dac3835"
+  },
+  "name": "MASOUD HAMISI SHABANI",
+  "license": "4000240224",
+  "phoneNumber": "+255688242323",
+  "lowerCaseName": "masoudhamisishabani",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:36:57.037Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a11834e7d29a4dac3837"
+  },
+  "name": "TOGORAI JORANS SHEMWETA",
+  "license": "4001053814",
+  "phoneNumber": "+255659500921",
+  "lowerCaseName": "togoraijoransshemweta",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:40:24.240Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a15634e7d29a4dac3839"
+  },
+  "name": "EDWARD JOSEPH LUDIMANGA",
+  "license": "4002557719",
+  "phoneNumber": "+255749837087",
+  "lowerCaseName": "edwardjosephludimanga",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:41:26.013Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a18c34e7d29a4dac383b"
+  },
+  "name": "MUSSA SAIDY CHUNGU",
+  "license": "4002972254",
+  "phoneNumber": "+255766241345",
+  "lowerCaseName": "mussasaidychungu",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:42:20.440Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a1d134e7d29a4dac383d"
+  },
+  "name": "NOEL ALLEN",
+  "license": "4002237273",
+  "phoneNumber": "+255782784250",
+  "lowerCaseName": "noelallen",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:43:29.134Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a24c34e7d29a4dac383f"
+  },
+  "name": "IMANUELI PAULO NG'UMBI",
+  "license": "4006969795",
+  "phoneNumber": "+255765915147",
+  "lowerCaseName": "imanuelipaulongumbi",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:45:32.141Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a27834e7d29a4dac3841"
+  },
+  "name": "JOHN MAGEMBE MKUGA",
+  "license": "4001113742",
+  "phoneNumber": "+255756352684",
+  "lowerCaseName": "johnmagembemkuga",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:46:16.118Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a2a634e7d29a4dac3843"
+  },
+  "name": "SHABANI MUSSA",
+  "license": "4000173200",
+  "phoneNumber": "+255655339089",
+  "lowerCaseName": "shabanimussa",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:47:02.936Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a2d434e7d29a4dac3845"
+  },
+  "name": "NATHAN DANDA",
+  "license": "4001838025",
+  "phoneNumber": "+255674665055",
+  "lowerCaseName": "nathandanda",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:47:48.960Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814a30734e7d29a4dac3847"
+  },
+  "name": "SAIDI ALLY ITASO",
+  "license": "4000110725",
+  "phoneNumber": "+255767272821",
+  "lowerCaseName": "saidiallyitaso",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T10:48:39.387Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814b8e234e7d29a4dac3849"
+  },
+  "name": "ABEID KASSIM KAMBI",
+  "license": "4000282285",
+  "phoneNumber": "+255716256080",
+  "lowerCaseName": "abeidkassimkambi",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T12:21:54.872Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814b91234e7d29a4dac384b"
+  },
+  "name": "AMIRI SEMKIWA",
+  "license": "4000040553",
+  "phoneNumber": "+255715031760",
+  "lowerCaseName": "amirisemkiwa",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T12:22:42.925Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c4b334e7d29a4dac384d"
+  },
+  "name": "KAIN JONAS KIBANGALI",
+  "license": "4000368308",
+  "phoneNumber": "+255753759129",
+  "lowerCaseName": "kainjonaskibangali",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:12:19.600Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c50334e7d29a4dac384f"
+  },
+  "name": "GELARD THOMAS MKATA",
+  "license": "4000311449",
+  "phoneNumber": "+255687541768",
+  "lowerCaseName": "gelardthomasmkata",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:13:39.452Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c53734e7d29a4dac3851"
+  },
+  "name": "JUMA SULEIMANI",
+  "license": "4000156242",
+  "phoneNumber": "+255716866185",
+  "lowerCaseName": "jumasuleimani",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:14:31.839Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c58c34e7d29a4dac3853"
+  },
+  "name": "YAHAYA HUSSEIN SAID",
+  "license": "4001520991",
+  "phoneNumber": "+255789988507",
+  "lowerCaseName": "yahayahusseinsaid",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:15:56.117Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c5be34e7d29a4dac3855"
+  },
+  "name": "SAIDI RAMADHANI LUKUSA",
+  "license": "4000623323",
+  "phoneNumber": "+255685818474",
+  "lowerCaseName": "saidiramadhanilukusa",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:16:46.009Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c69134e7d29a4dac3857"
+  },
+  "name": "BAKARI MAGEMBE",
+  "license": "4000208623",
+  "phoneNumber": "+255756362130",
+  "lowerCaseName": "bakarimagembe",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:20:17.954Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c7e834e7d29a4dac3859"
+  },
+  "name": "HABIB ABDULRAHIMAN SALIM",
+  "license": "4000027117",
+  "phoneNumber": "+255754438839",
+  "lowerCaseName": "habibabdulrahimansalim",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:26:00.486Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c81f34e7d29a4dac385b"
+  },
+  "name": "NELSON ELIAS MBAMILA",
+  "license": "4000815257",
+  "phoneNumber": "+255710235827",
+  "lowerCaseName": "nelsoneliasmbamila",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:26:55.147Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c85334e7d29a4dac385d"
+  },
+  "name": "FIDELISY AUGUSTINO MADEMBWE",
+  "license": "4003047476",
+  "phoneNumber": "+255687392436",
+  "lowerCaseName": "fidelisyaugustinomadembwe",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:27:47.689Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c8c434e7d29a4dac3861"
+  },
+  "name": "ABDUL GULU GULAM",
+  "license": "4006106802",
+  "phoneNumber": "+255768756168",
+  "lowerCaseName": "abdulgulugulam",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:29:40.303Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  },
+  "files": [],
+  "notes": []
+},
+{
+  "_id": {
+    "$oid": "6814c8f034e7d29a4dac3863"
+  },
+  "name": "HAMIS MUHSINI",
+  "license": "4000248674",
+  "phoneNumber": "+255767461214",
+  "lowerCaseName": "hamismuhsini",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:30:24.249Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c91e34e7d29a4dac3865"
+  },
+  "name": "MWIDIN RAMADHANI AMIRY",
+  "license": "4000205969",
+  "phoneNumber": "+255682997430",
+  "lowerCaseName": "mwidinramadhaniamiry",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:31:10.576Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c94a34e7d29a4dac3867"
+  },
+  "name": "JOSEPH COSMAS THADEI",
+  "license": "4000185570",
+  "phoneNumber": "+255715253240",
+  "lowerCaseName": "josephcosmasthadei",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:31:54.428Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c97e34e7d29a4dac3869"
+  },
+  "name": "MGISHA EVARIST KAIZA",
+  "license": "4002722911",
+  "phoneNumber": "+255756861852",
+  "lowerCaseName": "mgishaevaristkaiza",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:32:46.985Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c9aa34e7d29a4dac386b"
+  },
+  "name": "ATHUMAN KIBABA",
+  "license": "4002706580",
+  "phoneNumber": "+255672356432",
+  "lowerCaseName": "athumankibaba",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:33:30.322Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814c9e134e7d29a4dac386d"
+  },
+  "name": "SHABANI YUSUPH",
+  "license": "4005984944",
+  "phoneNumber": "+255759838723",
+  "lowerCaseName": "shabaniyusuph",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:34:25.450Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814ca2234e7d29a4dac386f"
+  },
+  "name": "MTENGELA MARCHELO LUKOSI",
+  "license": "4000538847",
+  "phoneNumber": "+255679869521",
+  "lowerCaseName": "mtengelamarchelolukosi",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:35:30.691Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814ca6d34e7d29a4dac3871"
+  },
+  "name": "WAZIRI SAIDI JUMA",
+  "license": "4004663340",
+  "phoneNumber": "+255783279358",
+  "lowerCaseName": "wazirisaidijuma",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:36:45.142Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814caa434e7d29a4dac3873"
+  },
+  "name": "JUMA RAJABU KILLO",
+  "license": "4000174419",
+  "phoneNumber": "+255713780503",
+  "lowerCaseName": "jumarajabukillo",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:37:40.950Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814cad334e7d29a4dac3875"
+  },
+  "name": "MICHAEL NICHOLOUS JACKSON",
+  "license": "4004411234",
+  "phoneNumber": null,
+  "lowerCaseName": "michaelnicholousjackson",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:38:27.615Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6814caf334e7d29a4dac3877"
+  },
+  "name": "HASSAN JAPHARY HUHANZE",
+  "license": "4000486391",
+  "phoneNumber": "+255746997000",
+  "lowerCaseName": "hassanjapharyhuhanze",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-02T13:38:59.265Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68283a5405a6ea0fa30ce04b"
+  },
+  "name": "JAMES JOSEPH MITEPA",
+  "license": "4006153198",
+  "phoneNumber": "+255656817416",
+  "lowerCaseName": "jamesjosephmitepa",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-17T07:27:16.733Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+},
+{
+  "_id": {
+    "$oid": "68283a7c05a6ea0fa30ce04d"
+  },
+  "name": "SHAMTE KASSIM SAMATA",
+  "license": "4000080601",
+  "phoneNumber": "+255622320174",
+  "lowerCaseName": "shamtekassimsamata",
+  "createdBy": "Mussa Salum Mussa",
+  "createdAt": {
+    "$date": "2025-05-17T07:27:56.460Z"
+  },
+  "createdByID": {
+    "$oid": "680b7237c0308f1a001e560b"
+  }
+}]
