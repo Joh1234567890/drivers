@@ -72,10 +72,16 @@ def parse_date_cell(val):
         dd, mm, yy = match.groups()
         if len(yy) == 2:
             yy = "20" + yy
-        return f"{yy}-{mm}-{dd}T00:00:00.000Z"
+        try:
+            # Create datetime object in Tanzania timezone
+            dt = datetime(int(yy), int(mm), int(dd), tzinfo=TZ)
+            return dt.replace(microsecond=0).isoformat()
+        except ValueError:
+            return None
     return None
 
 def now_tz_iso():
+    # Return ISO format with timezone offset (e.g., 2025-08-21T12:34:56+03:00)
     return datetime.now(TZ).replace(microsecond=0).isoformat()
 
 def is_number(val):
@@ -102,9 +108,20 @@ def extract_date_from_description(description):
         dd, mm, yy = last_match.groups()
         if len(yy) == 2:
             yy = "20" + yy
-        clean_desc = (description[:last_match.start()]).rstrip(" -").strip()
-        return f"{yy}-{mm}-{dd}T00:00:00.000Z", clean_desc
-    return DEFAULT_DATE, description.strip()
+        try:
+            # Create datetime object in Tanzania timezone
+            dt = datetime(int(yy), int(mm), int(dd), tzinfo=TZ)
+            clean_desc = (description[:last_match.start()]).rstrip(" -").strip()
+            return dt.replace(microsecond=0).isoformat(), clean_desc
+        except ValueError:
+            pass
+    # If no valid date found, use DEFAULT_DATE but convert to Tanzania timezone
+    try:
+        y, m, d = map(int, DEFAULT_DATE[:10].split('-'))
+        dt = datetime(y, m, d, tzinfo=TZ)
+        return dt.replace(microsecond=0).isoformat(), description.strip()
+    except:
+        return DEFAULT_DATE, description.strip()
 
 def record_transaction(driver_name, driver_id, date_iso, description, amount, tx_type):
     # Find the driver's name by itemID (driver_id)
