@@ -107,8 +107,17 @@ def extract_date_from_description(description):
     return DEFAULT_DATE, description.strip()
 
 def record_transaction(driver_name, driver_id, date_iso, description, amount, tx_type):
+    # Find the driver's name by itemID (driver_id)
+    item_name = None
+    for name, _id in driver_lookup.items():
+        if _id == driver_id:
+            item_name = name
+            break
+    # Capitalize item_name (all uppercase)
+    item_name_cap = (item_name if item_name else driver_name).upper()
     obj = {
         "itemID": driver_id,
+        "itemName": item_name_cap,
         "date": date_iso,
         "description": description,
         "amount": amount,
@@ -121,7 +130,7 @@ def record_transaction(driver_name, driver_id, date_iso, description, amount, tx
     }
     json_objects.append(obj)
     js_objects.append(
-        f'{{driver: "{driver_name}", itemID: ObjectId("{driver_id}"), date: new Date("{date_iso}"), description: "{description}", amount: {amount}, type: "{tx_type}", kind: "{KIND}", category: "{CATEGORY}", createdBy: "{CREATED_BY}", createdByID: ObjectId("{CREATED_BY_ID}"), createdAt: new Date("{obj["createdAt"]}")}}'
+        f'{{driver: "{driver_name}", itemID: ObjectId("{driver_id}"), itemName: "{item_name_cap}", date: new Date("{date_iso}"), description: "{description}", amount: {amount}, type: "{tx_type}", kind: "{KIND}", category: "{CATEGORY}", createdBy: "{CREATED_BY}", createdByID: ObjectId("{CREATED_BY_ID}"), createdAt: new Date("{obj["createdAt"]}")}}'
     )
 
 # == MAIN PROCESSING ==
